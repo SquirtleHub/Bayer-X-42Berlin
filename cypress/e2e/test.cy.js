@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   test.cy.js                                         :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: sazzeddi <sazzeddi@student.42berlin.de>    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2023/07/26 13:38:07 by sazzeddi          #+#    #+#             */
+/*   Updated: 2023/07/26 13:40:10 by sazzeddi         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 //to test the google search functionality
 describe('Google Search', () => {
     it('can find search results', () => {
