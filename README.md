@@ -40,12 +40,10 @@ Done ✓
 Done ✓
 
     Implementing Test Cases (Week 2): 
-        Now that you have low-level actions and defined test cases, proceed to implement the test cases using the chosen automation tool.
-        Write automated scripts that utilize the low-level actions to execute the test cases.
+Done ✓
 
     Implementing Business-Level Actions (Week 3):
-        For this step, you'll reimplement the test cases using business-level actions.
-        Business-level actions abstract the low-level interactions into more meaningful and understandable actions related to the business processes of the application.
+Done ✓
 
     Generating Test Reports (Extended Goal):
         Implement a feature that generates a detailed report after each test execution, showing which tests passed, which failed, and any error descriptions.
@@ -54,10 +52,7 @@ Done ✓
     Building a Simple API (Extended Goal):
         Create a simple API that stores the test execution results in a database (e.g., DynamoDB).
         This will enable you to analyze trends in test execution and gather insights into the overall health of the application.
-
-    Showcase and Presentation (Week 4):
-        Prepare a showcase and presentation of your automated test framework project for the Bayer Berlin event.
-        Highlight the features, benefits, and potential impact of your framework on the testing process.
+........ in progress
 
 ## In Case of any Issues
 
